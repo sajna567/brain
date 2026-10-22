@@ -1,0 +1,6 @@
+{
+  "name": "BrainInsight - AI MRI Screening Platform",
+  "description": "Deep learning screening workstation for brain MRI scans across tumor, Alzheimer's, multiple sclerosis, stroke, and normative control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
